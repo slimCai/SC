@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">分享助手</string>
+    <string name="wx_appid">wx589d6d252b1e79a5</string>
+    <!--<string name="wx_appid">wxda1cccbbda270c9c</string>-->
+</resources>
